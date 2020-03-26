@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e1bfabb1-ca83-425d-a81a-4f0221b725e1",
+    "data": [
+      {
+        "text": "jaký je počet nehod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b60ef6dc-f89f-436e-8d46-a2d47f430eb7",
+    "data": [
+      {
+        "text": "kolik je nehod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1ca1a5d-a144-416f-be80-783e2431c1e4",
+    "data": [
+      {
+        "text": "jaké jsou počty dopravních nehod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23234ca8-988c-4261-80ce-5700bf700f71",
+    "data": [
+      {
+        "text": "Řekni mi o autonehodách",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cdd28a52-2ba6-47d8-9f1a-0924b45fd7e0",
+    "data": [
+      {
+        "text": "Znečištuje se víc vzduch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8096187-7882-4d49-a050-056b674fa0bc",
+    "data": [
+      {
+        "text": "Jak je na tom vzduch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01682992-4660-44b7-a75e-1a0bb02768b8",
+    "data": [
+      {
+        "text": "Jaký dopad to má na ovzduší?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd186e12-a8d9-4a29-8729-c4eadf400b6e",
+    "data": [
+      {
+        "text": "Řekni mi o ovzduší",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

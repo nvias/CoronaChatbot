@@ -1,0 +1,39 @@
+{
+  "id": "a6236b58-888c-48f9-8d32-1f8e481fee68",
+  "name": "Česko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Pokud bys chtěl vědět přesná čísla ČR tak jdi na tento link"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "link": "https://onemocneni-aktualne.mzcr.cz/covid-19"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

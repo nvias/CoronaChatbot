@@ -1,0 +1,39 @@
+{
+  "id": "d01dab47-a198-408d-9e5a-568be4e7b8b6",
+  "name": "Autonehody",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Riziko i počty autonehod se dramaticky snížily. Více zde irozhlas.cz/nehody"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "picture": "https://nvias.org/covid19/pic/statistika-nehod.jpg"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "57cf4eb2-58ec-4796-b8bd-fbeb483ca29a",
+    "data": [
+      {
+        "text": "Za jak dlouho půjdu do školy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f661f1b-7805-4066-a02a-412ce2b51194",
+    "data": [
+      {
+        "text": "Otevře se někdy škola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c59140ad-e52d-40ff-b8d8-2a3d74780856",
+    "data": [
+      {
+        "text": "Kdy půjdu do školy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94926e5d-8c5d-4a5c-8e78-2aade3505341",
+    "data": [
+      {
+        "text": "Kdy bude škola ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

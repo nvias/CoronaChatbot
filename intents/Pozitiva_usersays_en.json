@@ -1,0 +1,38 @@
+[
+  {
+    "id": "315acae9-2fb1-45d6-bed7-ca1e43ba3008",
+    "data": [
+      {
+        "text": "Co takhle dobrá stránka?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4bd7f48-dd65-4054-8290-493dd47f21ad",
+    "data": [
+      {
+        "text": "Co je na tom dobrého?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54d84d14-653d-4cd1-ad12-6e12d94085f7",
+    "data": [
+      {
+        "text": "Je na tom něco pozitivního?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4f42c348-a059-44ce-b917-eab706850abd",
+    "data": [
+      {
+        "text": "Česká republika",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac3ee359-1cfb-41ee-88e8-2487cdee37b7",
+    "data": [
+      {
+        "text": "Čr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f542925a-b26e-4e6a-8aff-bff7b8f89f4d",
+    "data": [
+      {
+        "text": "Kolik je v Česku nakažených",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4aee182-c17f-477a-944d-e26b1697150f",
+    "data": [
+      {
+        "text": "Co Česko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "179513b0-bae0-4a7f-bce6-0d60748b4577",
+    "data": [
+      {
+        "text": "Jak je na tom Česko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

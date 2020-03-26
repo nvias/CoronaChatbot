@@ -1,0 +1,42 @@
+{
+  "id": "3c2173d0-cd6f-4ab9-80e9-9f421c646884",
+  "name": "Pozitiva",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Je daleko méně autonehod, čistší ovzduší, lidé si pomáhají, rodiny se stmelují..."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "hints": [
+              "Řekni mi o ovzduší",
+              "Řekni mi o autonehodách"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

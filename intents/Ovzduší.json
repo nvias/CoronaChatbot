@@ -1,0 +1,39 @@
+{
+  "id": "ddc901e8-5015-4184-a004-f6b7583c5f57",
+  "name": "Ovzduší",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tady máš porovnání mezi čínským ovzduším před a po viru go.nasa.gov/2QFryMe"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "picture": "https://earthobservatory.nasa.gov/blogs/earthmatters/wp-content/uploads/sites/5/2020/03/china_trop_2020056.png"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

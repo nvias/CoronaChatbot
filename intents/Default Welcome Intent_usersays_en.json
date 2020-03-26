@@ -1,0 +1,115 @@
+[
+  {
+    "id": "86ab47d6-01b8-4035-82df-2eee57621f34",
+    "data": [
+      {
+        "text": "Co víš o koronaviru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4396ca53-82b0-4c8b-bf66-1a159f6ac713",
+    "data": [
+      {
+        "text": "Můžu se na něco zeptat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c92bf76b-cb76-42bb-b9ba-cc2818876c07",
+    "data": [
+      {
+        "text": "Na co",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " se můžu zeptat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adca2633-996e-4c49-aa49-926eaa854d30",
+    "data": [
+      {
+        "text": "Dobrý den",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c96ffe84-a4a3-4df9-916c-9182af073bb5",
+    "data": [
+      {
+        "text": "Čau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e11b022e-d8be-4673-912a-18133b26bc1a",
+    "data": [
+      {
+        "text": "Co mi povíš",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "544f7523-7051-4784-875c-34940a6c247b",
+    "data": [
+      {
+        "text": "Jak se máš?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cff390c-434d-4004-96db-7f2cfa2811ec",
+    "data": [
+      {
+        "text": "Jak je?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208834e4-67da-4fca-a66d-5286f0a2f602",
+    "data": [
+      {
+        "text": "Ahoj!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
