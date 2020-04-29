@@ -13,7 +13,15 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Nikdo neví přesné datum znovuotevření školy, ale jednou se určitě dočkáme."
+          "speech": "Školy se budou otevírat pustupně. Nejdříve vysoké školy, poté první stupeň ZŠ. Druhý stupeň ZŠ do školy asi nepůjde do konce roku. Více na:http://www.msmt.cz/harmonogram-uvolnovani-opatreni-v-oblasti-skolstvi"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "picture": "http://www.msmt.cz/uploads/gallery/full/9581.jpg"
+          }
         }
       ],
       "defaultResponsePlatforms": {},
