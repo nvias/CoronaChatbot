@@ -1,5 +1,29 @@
 [
   {
+    "id": "f7c03314-95e7-4d13-aed5-49c6982b44c9",
+    "data": [
+      {
+        "text": "nebezpečí na silnicích",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbd81a87-6cac-4dc9-8b6e-a71e2560d669",
+    "data": [
+      {
+        "text": "nehody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "e1bfabb1-ca83-425d-a81a-4f0221b725e1",
     "data": [
       {

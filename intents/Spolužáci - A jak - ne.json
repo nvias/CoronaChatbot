@@ -1,25 +1,24 @@
 {
-  "id": "b100a24e-45df-4ced-a359-beb1de4832c5",
-  "name": "Spolužáci",
+  "id": "fa9ee394-cbbe-4f58-8609-8b36a280658e",
+  "parentId": "e2ef3be2-1187-46ca-b35b-ca6b2226d8b8",
+  "rootParentId": "b100a24e-45df-4ced-a359-beb1de4832c5",
+  "name": "Spolužáci - A jak - ne",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "Spoluci-Ajak-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [
-        {
-          "name": "Spoluci-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "action": "Spoluci.Spoluci-custom.Spoluci-Ajak-custom",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Bezpochybně. A mezitím, co je karanténa se s nimi můžeš kdekoliv virtuálně spojit."
+          "speech": "Nevadí můžeš se mě zeptat na něco jiného."
         },
         {
           "type": 4,
@@ -27,7 +26,12 @@
           "condition": "",
           "payload": {
             "hints": [
-              "A jak"
+              "Uvidím se někdy se spolužáky",
+              "Jak je na tom Česko?",
+              "Kdy se otevřou školy",
+              "Dopad koronaviru na ovzduší",
+              "Počty dopravních nehod",
+              "Zpět"
             ]
           }
         }

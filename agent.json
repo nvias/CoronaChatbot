@@ -4,10 +4,13 @@
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
-    "googleAssistantCompatible": false,
+    "googleAssistantCompatible": true,
     "project": "coronachatbot-aljpys",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],

@@ -14,7 +14,21 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Můžu ti říct o dopadu koronaviru na kvalitu ovzduší, počty dopravních nehod a tak dále... Nebo se mě zeptej \"Uvidím se někdy se spolužáky?\""
+          "speech": "Ahoj já jsem coronabot. Můžu ti říct o dopadu koronaviru na kvalitu ovzduší, počty dopravních nehod a tak dále... Nebo se mě zeptej \"Uvidím se někdy se spolužáky?\" nebo:\"Kdy se otevřou školy\""
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "hints": [
+              "Uvidím se někdy se spolužáky",
+              "Jak je na tom Česko?",
+              "Kdy se otevřou školy",
+              "Dopad koronaviru na ovzduší",
+              "Počty dopravních nehod"
+            ]
+          }
         }
       ],
       "defaultResponsePlatforms": {},

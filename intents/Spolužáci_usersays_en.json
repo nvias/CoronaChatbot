@@ -1,5 +1,125 @@
 [
   {
+    "id": "d614c2e8-c333-482a-8d9a-80a6e9b37c92",
+    "data": [
+      {
+        "text": "Kdy se potkám s kamarády",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e318fc53-e8f5-418a-8adc-502f4f57f3cf",
+    "data": [
+      {
+        "text": "Kdy se potkám se spolužáky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0230b02a-ef62-4b22-9d96-a499269d7a58",
+    "data": [
+      {
+        "text": "Kdy uvidím spolužáky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a405f067-6a6e-46ce-9843-7f33eb97be99",
+    "data": [
+      {
+        "text": "Kdy uvidím kamarády",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a71d6b83-4321-43a7-b639-2b53487dbc53",
+    "data": [
+      {
+        "text": "Uvidím kamarády",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "774456b9-f35f-4fbd-bf2c-2dd424604568",
+    "data": [
+      {
+        "text": "Uvidím spolužáky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd17856-fb90-4b5a-b5f3-12581095a74d",
+    "data": [
+      {
+        "text": "Uvidím se se spolužáky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d7a066a-c006-4b1b-b8ef-dd1a08d4454c",
+    "data": [
+      {
+        "text": "Uvidím se někdy s kamarády",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "528ba0fd-5c22-44dc-9816-043323a783b5",
+    "data": [
+      {
+        "text": "Uvidím se s kamarády",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df7b339d-6ef6-40b3-a218-614dad965c08",
+    "data": [
+      {
+        "text": "Spolužáci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "19b83ee6-639d-468c-8dca-ae44e4e32940",
     "data": [
       {

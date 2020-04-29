@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9c566f37-918a-4522-b61f-9d66d031043e",
+    "data": [
+      {
+        "text": "Can you speak english?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38a0e9ab-e86f-4977-b47b-4128d67c0f8b",
+    "data": [
+      {
+        "text": "Umíš anglicky?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "id": "a6236b58-888c-48f9-8d32-1f8e481fee68",
-  "name": "Česko",
+  "id": "553dc4bf-5625-487e-82b9-2ef0cca4495a",
+  "name": "Výstup z kamery: Neutrální\r",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,15 +13,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Nahoře na stránce vidíš aktuální čísla - počet uzdravených a nakažených. Pokud bys chtěl vědět více, tak jdi na tento link https://onemocneni-aktualne.mzcr.cz/covid-19\\"
-        },
-        {
-          "type": 4,
-          "lang": "en",
-          "condition": "",
-          "payload": {
-            "link": "https://onemocneni-aktualne.mzcr.cz/covid-19"
-          }
+          "speech": "Jsi neutrální zkus si zahrát naší hru. http://nvias.org/covid19/index.html#hra"
         }
       ],
       "defaultResponsePlatforms": {},

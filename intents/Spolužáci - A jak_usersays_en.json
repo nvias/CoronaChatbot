@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6878e686-1fc2-4c5b-8049-ba359c68a7f2",
+    "data": [
+      {
+        "text": "řekni mi víc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "024f42f0-e36c-4e54-aeac-64a06f846302",
+    "data": [
+      {
+        "text": "jak se s nimi spojím",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f37af10-b9a0-4ece-a947-955e2c3b78bd",
+    "data": [
+      {
+        "text": "jak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1615c8d8-3f4c-4926-be55-e088b608181a",
+    "data": [
+      {
+        "text": "A jak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
